@@ -19,6 +19,14 @@ main {
     color: white;
     font-family: "Abril Fatface";
 }
+a{
+
+    color: #17181a;
+}
+
+a:hover{
+    color: #3EBEA8;
+}
 
 .nav-header {
     min-height: 10vh;
@@ -79,15 +87,15 @@ main {
 }
 
 .fashion-span {
-    color: rgb(255, 139, 93);
+    color: #6ef8e1;;
 }
 
 .mountain-span {
-    color: rgb(86, 124, 228);
+    color:#6ef8e1;;
 }
 
 .hike-span {
-    color: rgb(167, 110, 231);
+    color:#6ef8e1;;
 }
 
 .hero-desc h2 {
@@ -180,7 +188,7 @@ main {
 }
 
 .cursor.nav-active {
-    background: rgb(86, 124, 228);
+    background: #3EBEA8;
     transform: scale(3);
 }
 
@@ -213,15 +221,15 @@ main {
 }
 
 .t-swipe1 {
-    background: rgb(86, 124, 228);
+    background: #6ef8e1;
 }
 
 .t-swipe2 {
-    background: rgb(167, 110, 231);
+    background:#6ef8e1;;
 }
 
 .t-swipe3 {
-    background: rgb(255, 139, 93);
+    background:#6ef8e1;;
 }
 
 .scrollmagic-pin-spacer {
@@ -273,15 +281,15 @@ body.hide {
 }
 
 .fashion1 h1 {
-    color: rgb(255, 139, 93);
+    color: #3EBEA8;
 }
 
 .fashion2 h1 {
-    color: rgb(167, 110, 231);
+    color: #3EBEA8;
 }
 
 .fashion3 h1 {
-    color: rgb(86, 124, 228);
+    color: #3EBEA8;
 }
 
 .fashion-text p {
